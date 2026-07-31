@@ -1,5 +1,6 @@
 package com.hamilton.authentication.config;
 
+import com.hamilton.authentication.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.Customizer;
